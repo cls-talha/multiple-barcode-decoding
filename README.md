@@ -2,6 +2,13 @@
 
 A classical computer vision pipeline for detecting, correcting orientation, and decoding multiple barcodes from images. The system works entirely on CPU using OpenCV and PyZbar, requiring no trained models or GPU acceleration.
 
+## Technical Report
+
+A detailed explanation of the detection and decoding pipeline is available in the project report:
+
+**https://drive.google.com/file/d/1cfUwYGxJ4ZCAhaIPrmn1VGlL1bj-ZyJ3/view?usp=sharing**
+
+
 ## Features
 
 * Detect multiple barcodes in a single image
@@ -49,8 +56,3 @@ python main.py
 python full_folder_output.py
 ```
 
-## Technical Report
-
-A detailed explanation of the detection and decoding pipeline is available in the project report:
-
-**[Add PDF Report Link Here]**
